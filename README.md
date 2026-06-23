@@ -1,4 +1,4 @@
-# 🚌 PakTravel AI System
+# PakTravel AI System
 
 > An AI-powered intercity bus travel system for Pakistan, built as a semester project covering classical search, propositional logic, CSP scheduling, neural networks, and unsupervised learning.
 
@@ -10,7 +10,7 @@ PakTravel AI System is a multi-part Python project that applies core Artificial 
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 Project/
@@ -27,7 +27,7 @@ Project/
 
 ---
 
-## 🔍 Tasks Breakdown
+## Tasks Breakdown
 
 ### Task 1 — Route Finder (Search Algorithms)
 
@@ -146,7 +146,7 @@ Cluster profiles are visualized with scatter plots and bar charts.
 
 ---
 
-## 🛠️ Installation & Usage
+## Installation & Usage
 
 ### Prerequisites
 
@@ -181,7 +181,7 @@ python Task_5/traveller_clustering.py
 
 ---
 
-## 🧠 AI Techniques Used
+## AI Techniques Used
 
 | Technique | Task | Library |
 |---|---|---|
@@ -195,7 +195,7 @@ python Task_5/traveller_clustering.py
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 ```
 networkx
@@ -207,7 +207,7 @@ scikit-learn
 
 ---
 
-## 📄 License
+## License
 
 This project is for educational purposes as part of an AI semester project.
 
