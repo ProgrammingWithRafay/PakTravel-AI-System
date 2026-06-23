@@ -213,6 +213,6 @@ This project is for educational purposes as part of an AI semester project.
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - [AIMA Python](https://github.com/aimacode/aima-python) — `logic.py` (PropKB, expr, resolution) used as the inference engine for Task 2; the full library ships in `Task_2/aima-python-master/` for reference
