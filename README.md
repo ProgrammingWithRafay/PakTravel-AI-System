@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 PakTravel AI System is a multi-part Python project that applies core Artificial Intelligence techniques to solve real-world problems in Pakistan's intercity bus travel domain — from finding the shortest route between cities to predicting delays and clustering passengers.
 
